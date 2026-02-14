@@ -16,5 +16,5 @@ Web Frontend (React)
 
 [x] Implement basic Dashboard and Logout logic
 
-Not done or needs to finalized:
+NOT DONE OR NEEDS TO BE FINALIZED:
 Mobile Frontend (Android/Kotlin) & Connect to Backend
