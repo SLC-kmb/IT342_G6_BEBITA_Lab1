@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnLogin
+id btnLogout
+id btnRegister
+id etEmail
+id etName
+id etPassword
+id etRegEmail
+id etRegPassword
+id main
+id tvLoginLink
+id tvRegisterLink
+id tvWelcome
+layout activity_dashboard
+layout activity_login
+layout activity_main
+layout activity_register
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Lab1Mobile
+style Theme.Lab1Mobile
+xml backup_rules
+xml data_extraction_rules
